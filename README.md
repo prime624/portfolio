@@ -31,15 +31,9 @@ git clone https://github.com/prime624/portfolio.git
 Navigate to the project directory:
 
 cd portfolio
+
 3 Open the file: Open the index.html file in your preferred web browser.
 
-No special server or build process is required. The website will run directly from the file system.
-
 Contact
 You can reach me through my various social links and email, which are available in the footer of the portfolio.
 
-Open the file: Open the index.html file in your preferred web browser.
-
-
-Contact
-You can reach me through my various social links and email, which are available in the footer of the portfolio.
